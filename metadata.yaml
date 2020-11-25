@@ -1,5 +1,8 @@
 _repo: The-Christian-serving-his-own-generation-A-sermon-occasioned-by-the-lamented-death-of-Joseph-__63770
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63770-h/images/cover.jpg
 creator:
   author:
     agent_name: Alexander, John
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '52365'
     url: http://www.gutenberg.org/2009/agents/52365
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63770#The-Christian-serving-his-own-generation-A-sermon-occasioned-by-the-lamented-death-of-Joseph-_
 gutenberg_issued: '2020-11-15'
 gutenberg_type: Text
 identifiers:

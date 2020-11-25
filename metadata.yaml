@@ -1,0 +1,28 @@
+_repo: The-Christian-serving-his-own-generation-A-sermon-occasioned-by-the-lamented-death-of-Joseph-__63770
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alexander, John
+    birthdate: 1792
+    deathdate: 1868
+    gutenberg_agent_id: '52365'
+    url: http://www.gutenberg.org/2009/agents/52365
+description: ''
+gutenberg_issued: '2020-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63770'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Sermons'
+- !lcsh 'Gurney, Joseph John, 1788-1847'
+- !lcsh 'Sermons, English -- 19th century'
+- !lcsh 'Funeral sermons'
+- !lcc 'BV'
+- GITenberg
+title: "The Christian serving his own generation\r\nA sermon occasioned by the lamented\
+  \ death of Joseph John Gurney, Esq."
+url: http://www.gutenberg.org/ebooks/63770
